@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -154,7 +154,7 @@
     <value>8, 96</value>
   </data>
   <data name="cbOverrideAfterCaptureSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>157, 17</value>
+    <value>191, 20</value>
   </data>
   <data name="cbOverrideAfterCaptureSettings.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -184,7 +184,7 @@
     <value>8, 152</value>
   </data>
   <data name="cbOverrideAfterUploadSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 17</value>
+    <value>188, 20</value>
   </data>
   <data name="cbOverrideAfterUploadSettings.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -214,7 +214,7 @@
     <value>8, 208</value>
   </data>
   <data name="cbOverrideDestinationSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>125, 17</value>
+    <value>154, 20</value>
   </data>
   <data name="cbOverrideDestinationSettings.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -244,7 +244,7 @@
     <value>5, 53</value>
   </data>
   <data name="lblDescription.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 13</value>
+    <value>79, 16</value>
   </data>
   <data name="lblDescription.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -268,7 +268,7 @@
     <value>8, 69</value>
   </data>
   <data name="tbDescription.Size" type="System.Drawing.Size, System.Drawing">
-    <value>552, 20</value>
+    <value>552, 22</value>
   </data>
   <data name="tbDescription.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -304,7 +304,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblTask.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 13</value>
+    <value>42, 16</value>
   </data>
   <data name="lblTask.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -355,7 +355,7 @@
     <value>8, 400</value>
   </data>
   <data name="txtScreenshotsFolder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>448, 20</value>
+    <value>448, 22</value>
   </data>
   <data name="txtScreenshotsFolder.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -382,7 +382,7 @@
     <value>8, 376</value>
   </data>
   <data name="cbOverrideScreenshotsFolder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 17</value>
+    <value>192, 20</value>
   </data>
   <data name="cbOverrideScreenshotsFolder.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -406,7 +406,7 @@
     <value>8, 344</value>
   </data>
   <data name="cbCustomUploaders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>552, 21</value>
+    <value>552, 24</value>
   </data>
   <data name="cbCustomUploaders.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -433,7 +433,7 @@
     <value>8, 320</value>
   </data>
   <data name="cbOverrideCustomUploader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>182, 17</value>
+    <value>225, 20</value>
   </data>
   <data name="cbOverrideCustomUploader.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -463,7 +463,7 @@
     <value>8, 264</value>
   </data>
   <data name="cbOverrideFTPAccount.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 17</value>
+    <value>201, 20</value>
   </data>
   <data name="cbOverrideFTPAccount.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -487,7 +487,7 @@
     <value>8, 288</value>
   </data>
   <data name="cbFTPAccounts.Size" type="System.Drawing.Size, System.Drawing">
-    <value>552, 21</value>
+    <value>552, 24</value>
   </data>
   <data name="cbFTPAccounts.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -526,7 +526,7 @@
     <value>btnAfterCapture</value>
   </data>
   <data name="&gt;&gt;btnAfterCapture.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnAfterCapture.Parent" xml:space="preserve">
     <value>tpTask</value>
@@ -556,7 +556,7 @@
     <value>btnAfterUpload</value>
   </data>
   <data name="&gt;&gt;btnAfterUpload.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnAfterUpload.Parent" xml:space="preserve">
     <value>tpTask</value>
@@ -628,7 +628,7 @@
     <value>btnDestinations</value>
   </data>
   <data name="&gt;&gt;btnDestinations.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnDestinations.Parent" xml:space="preserve">
     <value>tpTask</value>
@@ -664,7 +664,7 @@
     <value>btnTask</value>
   </data>
   <data name="&gt;&gt;btnTask.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MenuButton, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;btnTask.Parent" xml:space="preserve">
     <value>tpTask</value>
@@ -673,13 +673,13 @@
     <value>13</value>
   </data>
   <data name="tpTask.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpTask.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpTask.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpTask.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -715,7 +715,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideGeneralSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 25</value>
+    <value>557, 28</value>
   </data>
   <data name="cbOverrideGeneralSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -736,10 +736,10 @@
     <value>0</value>
   </data>
   <data name="tpGeneralMain.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpGeneralMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpGeneralMain.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -787,7 +787,7 @@
     <value>248, 414</value>
   </data>
   <data name="txtCustomActionCompletedSoundPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 20</value>
+    <value>280, 22</value>
   </data>
   <data name="txtCustomActionCompletedSoundPath.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -814,7 +814,7 @@
     <value>8, 416</value>
   </data>
   <data name="cbUseCustomActionCompletedSound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 17</value>
+    <value>247, 20</value>
   </data>
   <data name="cbUseCustomActionCompletedSound.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -841,7 +841,7 @@
     <value>8, 56</value>
   </data>
   <data name="cbPlaySoundAfterAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>196, 17</value>
+    <value>242, 20</value>
   </data>
   <data name="cbPlaySoundAfterAction.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -871,7 +871,7 @@
     <value>8, 80</value>
   </data>
   <data name="cbShowToastNotificationAfterTaskCompleted.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 17</value>
+    <value>295, 20</value>
   </data>
   <data name="cbShowToastNotificationAfterTaskCompleted.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -976,7 +976,7 @@
     <value>248, 438</value>
   </data>
   <data name="txtCustomErrorSoundPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 20</value>
+    <value>280, 22</value>
   </data>
   <data name="txtCustomErrorSoundPath.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -997,7 +997,7 @@
     <value>248, 390</value>
   </data>
   <data name="txtCustomTaskCompletedSoundPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 20</value>
+    <value>280, 22</value>
   </data>
   <data name="txtCustomTaskCompletedSoundPath.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -1018,7 +1018,7 @@
     <value>248, 366</value>
   </data>
   <data name="txtCustomCaptureSoundPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 20</value>
+    <value>280, 22</value>
   </data>
   <data name="txtCustomCaptureSoundPath.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1045,7 +1045,7 @@
     <value>8, 440</value>
   </data>
   <data name="cbUseCustomErrorSound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 17</value>
+    <value>172, 20</value>
   </data>
   <data name="cbUseCustomErrorSound.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1075,7 +1075,7 @@
     <value>8, 392</value>
   </data>
   <data name="cbUseCustomTaskCompletedSound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 17</value>
+    <value>236, 20</value>
   </data>
   <data name="cbUseCustomTaskCompletedSound.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1105,7 +1105,7 @@
     <value>8, 368</value>
   </data>
   <data name="cbUseCustomCaptureSound.Size" type="System.Drawing.Size, System.Drawing">
-    <value>156, 17</value>
+    <value>189, 20</value>
   </data>
   <data name="cbUseCustomCaptureSound.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1132,7 +1132,7 @@
     <value>16, 192</value>
   </data>
   <data name="cbToastWindowAutoHide.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 17</value>
+    <value>246, 20</value>
   </data>
   <data name="cbToastWindowAutoHide.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -1162,7 +1162,7 @@
     <value>237, 48</value>
   </data>
   <data name="lblToastWindowFadeDurationSeconds.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>60, 16</value>
   </data>
   <data name="lblToastWindowFadeDurationSeconds.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1192,7 +1192,7 @@
     <value>237, 24</value>
   </data>
   <data name="lblToastWindowDurationSeconds.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>60, 16</value>
   </data>
   <data name="lblToastWindowDurationSeconds.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1222,7 +1222,7 @@
     <value>263, 95</value>
   </data>
   <data name="lblToastWindowSizeX.Size" type="System.Drawing.Size, System.Drawing">
-    <value>12, 13</value>
+    <value>14, 16</value>
   </data>
   <data name="lblToastWindowSizeX.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -1246,7 +1246,7 @@
     <value>176, 164</value>
   </data>
   <data name="cbToastWindowMiddleClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>184, 24</value>
   </data>
   <data name="cbToastWindowMiddleClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -1267,7 +1267,7 @@
     <value>176, 140</value>
   </data>
   <data name="cbToastWindowRightClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>184, 24</value>
   </data>
   <data name="cbToastWindowRightClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1288,7 +1288,7 @@
     <value>176, 116</value>
   </data>
   <data name="cbToastWindowLeftClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>184, 24</value>
   </data>
   <data name="cbToastWindowLeftClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1309,7 +1309,7 @@
     <value>280, 92</value>
   </data>
   <data name="nudToastWindowSizeHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 20</value>
+    <value>80, 22</value>
   </data>
   <data name="nudToastWindowSizeHeight.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -1333,7 +1333,7 @@
     <value>176, 92</value>
   </data>
   <data name="nudToastWindowSizeWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 20</value>
+    <value>80, 22</value>
   </data>
   <data name="nudToastWindowSizeWidth.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -1357,7 +1357,7 @@
     <value>176, 68</value>
   </data>
   <data name="cbToastWindowPlacement.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>184, 24</value>
   </data>
   <data name="cbToastWindowPlacement.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1378,7 +1378,7 @@
     <value>176, 44</value>
   </data>
   <data name="nudToastWindowFadeDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+    <value>56, 22</value>
   </data>
   <data name="nudToastWindowFadeDuration.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1408,7 +1408,7 @@
     <value>16, 216</value>
   </data>
   <data name="cbDisableNotificationsOnFullscreen.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 17</value>
+    <value>257, 20</value>
   </data>
   <data name="cbDisableNotificationsOnFullscreen.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -1432,7 +1432,7 @@
     <value>176, 20</value>
   </data>
   <data name="nudToastWindowDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+    <value>56, 22</value>
   </data>
   <data name="nudToastWindowDuration.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1462,7 +1462,7 @@
     <value>13, 168</value>
   </data>
   <data name="lblToastWindowMiddleClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 13</value>
+    <value>121, 16</value>
   </data>
   <data name="lblToastWindowMiddleClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -1492,7 +1492,7 @@
     <value>13, 144</value>
   </data>
   <data name="lblToastWindowRightClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>92, 13</value>
+    <value>111, 16</value>
   </data>
   <data name="lblToastWindowRightClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1522,7 +1522,7 @@
     <value>13, 120</value>
   </data>
   <data name="lblToastWindowLeftClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 13</value>
+    <value>101, 16</value>
   </data>
   <data name="lblToastWindowLeftClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -1552,7 +1552,7 @@
     <value>13, 96</value>
   </data>
   <data name="lblToastWindowSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>30, 13</value>
+    <value>37, 16</value>
   </data>
   <data name="lblToastWindowSize.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1582,7 +1582,7 @@
     <value>13, 72</value>
   </data>
   <data name="lblToastWindowPlacement.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 13</value>
+    <value>75, 16</value>
   </data>
   <data name="lblToastWindowPlacement.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1612,7 +1612,7 @@
     <value>13, 48</value>
   </data>
   <data name="lblToastWindowFadeDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 13</value>
+    <value>94, 16</value>
   </data>
   <data name="lblToastWindowFadeDuration.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1642,7 +1642,7 @@
     <value>13, 24</value>
   </data>
   <data name="lblToastWindowDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 13</value>
+    <value>61, 16</value>
   </data>
   <data name="lblToastWindowDuration.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1696,7 +1696,7 @@
     <value>8, 8</value>
   </data>
   <data name="cbPlaySoundAfterCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 17</value>
+    <value>222, 20</value>
   </data>
   <data name="cbPlaySoundAfterCapture.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1726,7 +1726,7 @@
     <value>8, 32</value>
   </data>
   <data name="cbPlaySoundAfterUpload.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 17</value>
+    <value>231, 20</value>
   </data>
   <data name="cbPlaySoundAfterUpload.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1747,13 +1747,13 @@
     <value>16</value>
   </data>
   <data name="tpNotifications.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpNotifications.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpNotifications.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpNotifications.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1780,7 +1780,7 @@
     <value>3, 3</value>
   </data>
   <data name="tcGeneral.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 479</value>
+    <value>565, 476</value>
   </data>
   <data name="tcGeneral.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1798,13 +1798,13 @@
     <value>0</value>
   </data>
   <data name="tpGeneral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpGeneral.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpGeneral.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpGeneral.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1834,7 +1834,7 @@
     <value>8, 256</value>
   </data>
   <data name="cbImageAutoJPEGQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>400, 17</value>
+    <value>502, 20</value>
   </data>
   <data name="cbImageAutoJPEGQuality.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -1858,7 +1858,7 @@
     <value>8, 72</value>
   </data>
   <data name="cbImagePNGBitDepth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 21</value>
+    <value>160, 24</value>
   </data>
   <data name="cbImagePNGBitDepth.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -1885,7 +1885,7 @@
     <value>5, 56</value>
   </data>
   <data name="lblImagePNGBitDepth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 13</value>
+    <value>94, 16</value>
   </data>
   <data name="lblImagePNGBitDepth.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1915,7 +1915,7 @@
     <value>8, 200</value>
   </data>
   <data name="cbImageAutoUseJPEG.Size" type="System.Drawing.Size, System.Drawing">
-    <value>365, 17</value>
+    <value>458, 20</value>
   </data>
   <data name="cbImageAutoUseJPEG.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1945,7 +1945,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblImageFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
+    <value>89, 16</value>
   </data>
   <data name="lblImageFormat.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1969,7 +1969,7 @@
     <value>8, 296</value>
   </data>
   <data name="cbImageFileExist.Size" type="System.Drawing.Size, System.Drawing">
-    <value>253, 21</value>
+    <value>253, 24</value>
   </data>
   <data name="cbImageFileExist.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1996,7 +1996,7 @@
     <value>5, 280</value>
   </data>
   <data name="lblImageFileExist.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 13</value>
+    <value>67, 16</value>
   </data>
   <data name="lblImageFileExist.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -2020,7 +2020,7 @@
     <value>8, 224</value>
   </data>
   <data name="nudImageAutoUseJPEGSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 20</value>
+    <value>72, 22</value>
   </data>
   <data name="nudImageAutoUseJPEGSize.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -2050,7 +2050,7 @@
     <value>85, 228</value>
   </data>
   <data name="lblImageSizeLimitHint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>20, 13</value>
+    <value>24, 16</value>
   </data>
   <data name="lblImageSizeLimitHint.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -2074,7 +2074,7 @@
     <value>8, 120</value>
   </data>
   <data name="nudImageJPEGQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
+    <value>48, 22</value>
   </data>
   <data name="nudImageJPEGQuality.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2098,7 +2098,7 @@
     <value>8, 24</value>
   </data>
   <data name="cbImageFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 21</value>
+    <value>64, 24</value>
   </data>
   <data name="cbImageFormat.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2125,7 +2125,7 @@
     <value>61, 124</value>
   </data>
   <data name="lblImageJPEGQualityHint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 13</value>
+    <value>46, 16</value>
   </data>
   <data name="lblImageJPEGQualityHint.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -2155,7 +2155,7 @@
     <value>5, 152</value>
   </data>
   <data name="lblImageGIFQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 13</value>
+    <value>74, 16</value>
   </data>
   <data name="lblImageGIFQuality.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2185,7 +2185,7 @@
     <value>5, 104</value>
   </data>
   <data name="lblImageJPEGQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 13</value>
+    <value>88, 16</value>
   </data>
   <data name="lblImageJPEGQuality.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2209,7 +2209,7 @@
     <value>8, 168</value>
   </data>
   <data name="cbImageGIFQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>360, 21</value>
+    <value>360, 24</value>
   </data>
   <data name="cbImageGIFQuality.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2230,10 +2230,10 @@
     <value>Fill</value>
   </data>
   <data name="pImage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 25</value>
+    <value>0, 28</value>
   </data>
   <data name="pImage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 428</value>
+    <value>557, 419</value>
   </data>
   <data name="pImage.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2266,7 +2266,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideImageSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 25</value>
+    <value>557, 28</value>
   </data>
   <data name="cbOverrideImageSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2287,10 +2287,10 @@
     <value>1</value>
   </data>
   <data name="tpQuality.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpQuality.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpQuality.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2314,7 +2314,7 @@
     <value>8, 112</value>
   </data>
   <data name="cbUseRandomImageEffect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 17</value>
+    <value>177, 20</value>
   </data>
   <data name="cbUseRandomImageEffect.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2344,7 +2344,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblImageEffectsNote.Size" type="System.Drawing.Size, System.Drawing">
-    <value>443, 13</value>
+    <value>549, 16</value>
   </data>
   <data name="lblImageEffectsNote.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2374,7 +2374,7 @@
     <value>8, 64</value>
   </data>
   <data name="cbShowImageEffectsWindowAfterCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 17</value>
+    <value>267, 20</value>
   </data>
   <data name="cbShowImageEffectsWindowAfterCapture.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2404,7 +2404,7 @@
     <value>8, 88</value>
   </data>
   <data name="cbImageEffectOnlyRegionCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>193, 17</value>
+    <value>236, 20</value>
   </data>
   <data name="cbImageEffectOnlyRegionCapture.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2452,13 +2452,13 @@
     <value>4</value>
   </data>
   <data name="tpEffects.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpEffects.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpEffects.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpEffects.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2488,7 +2488,7 @@
     <value>11, 152</value>
   </data>
   <data name="cbThumbnailIfSmaller.Size" type="System.Drawing.Size, System.Drawing">
-    <value>322, 17</value>
+    <value>402, 20</value>
   </data>
   <data name="cbThumbnailIfSmaller.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -2518,7 +2518,7 @@
     <value>147, 124</value>
   </data>
   <data name="lblThumbnailNamePreview.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 13</value>
+    <value>56, 16</value>
   </data>
   <data name="lblThumbnailNamePreview.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2548,7 +2548,7 @@
     <value>8, 104</value>
   </data>
   <data name="lblThumbnailName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 13</value>
+    <value>111, 16</value>
   </data>
   <data name="lblThumbnailName.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2572,7 +2572,7 @@
     <value>11, 120</value>
   </data>
   <data name="txtThumbnailName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 20</value>
+    <value>128, 22</value>
   </data>
   <data name="txtThumbnailName.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -2599,7 +2599,7 @@
     <value>8, 56</value>
   </data>
   <data name="lblThumbnailHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 13</value>
+    <value>50, 16</value>
   </data>
   <data name="lblThumbnailHeight.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2629,7 +2629,7 @@
     <value>8, 8</value>
   </data>
   <data name="lblThumbnailWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 13</value>
+    <value>45, 16</value>
   </data>
   <data name="lblThumbnailWidth.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2653,7 +2653,7 @@
     <value>11, 72</value>
   </data>
   <data name="nudThumbnailHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudThumbnailHeight.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2677,7 +2677,7 @@
     <value>11, 24</value>
   </data>
   <data name="nudThumbnailWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudThumbnailWidth.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2698,13 +2698,13 @@
     <value>7</value>
   </data>
   <data name="tpThumbnail.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpThumbnail.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpThumbnail.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpThumbnail.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2731,7 +2731,7 @@
     <value>3, 3</value>
   </data>
   <data name="tcImage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 479</value>
+    <value>565, 476</value>
   </data>
   <data name="tcImage.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2749,13 +2749,13 @@
     <value>0</value>
   </data>
   <data name="tpImage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpImage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpImage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpImage.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2775,11 +2775,35 @@
   <data name="&gt;&gt;tpImage.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="cbUseWinRTCapture.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 332</value>
+  </data>
+  <data name="cbUseWinRTCapture.Size" type="System.Drawing.Size, System.Drawing">
+    <value>260, 24</value>
+  </data>
+  <data name="cbUseWinRTCapture.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="cbUseWinRTCapture.Text" xml:space="preserve">
+    <value>Use WinRT API (HDR color correction)</value>
+  </data>
+  <data name="&gt;&gt;cbUseWinRTCapture.Name" xml:space="preserve">
+    <value>cbUseWinRTCapture</value>
+  </data>
+  <data name="&gt;&gt;cbUseWinRTCapture.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbUseWinRTCapture.Parent" xml:space="preserve">
+    <value>pCapture</value>
+  </data>
+  <data name="&gt;&gt;cbUseWinRTCapture.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="txtCaptureCustomWindow.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 304</value>
   </data>
   <data name="txtCaptureCustomWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>360, 20</value>
+    <value>360, 22</value>
   </data>
   <data name="txtCaptureCustomWindow.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -2794,7 +2818,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;txtCaptureCustomWindow.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="lblCaptureCustomWindow.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2803,7 +2827,7 @@
     <value>5, 288</value>
   </data>
   <data name="lblCaptureCustomWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 13</value>
+    <value>168, 16</value>
   </data>
   <data name="lblCaptureCustomWindow.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -2821,7 +2845,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomWindow.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="lblScreenshotDelay.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2833,7 +2857,7 @@
     <value>5, 30</value>
   </data>
   <data name="lblScreenshotDelay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>92, 13</value>
+    <value>116, 16</value>
   </data>
   <data name="lblScreenshotDelay.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2851,7 +2875,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblScreenshotDelay.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="btnCaptureCustomRegionSelectRectangle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -2878,7 +2902,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;btnCaptureCustomRegionSelectRectangle.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="lblCaptureCustomRegion.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2890,7 +2914,7 @@
     <value>5, 224</value>
   </data>
   <data name="lblCaptureCustomRegion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>111, 13</value>
+    <value>139, 16</value>
   </data>
   <data name="lblCaptureCustomRegion.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -2908,7 +2932,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomRegion.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="lblCaptureCustomRegionWidth.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2920,7 +2944,7 @@
     <value>117, 240</value>
   </data>
   <data name="lblCaptureCustomRegionWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 13</value>
+    <value>42, 16</value>
   </data>
   <data name="lblCaptureCustomRegionWidth.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -2938,7 +2962,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomRegionWidth.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="lblCaptureCustomRegionHeight.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2950,7 +2974,7 @@
     <value>173, 240</value>
   </data>
   <data name="lblCaptureCustomRegionHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 13</value>
+    <value>47, 16</value>
   </data>
   <data name="lblCaptureCustomRegionHeight.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -2968,7 +2992,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomRegionHeight.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="lblCaptureCustomRegionY.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2980,7 +3004,7 @@
     <value>61, 240</value>
   </data>
   <data name="lblCaptureCustomRegionY.Size" type="System.Drawing.Size, System.Drawing">
-    <value>14, 13</value>
+    <value>17, 16</value>
   </data>
   <data name="lblCaptureCustomRegionY.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -2998,7 +3022,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomRegionY.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>8</value>
   </data>
   <data name="lblCaptureCustomRegionX.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3010,7 +3034,7 @@
     <value>5, 240</value>
   </data>
   <data name="lblCaptureCustomRegionX.Size" type="System.Drawing.Size, System.Drawing">
-    <value>14, 13</value>
+    <value>16, 16</value>
   </data>
   <data name="lblCaptureCustomRegionX.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -3028,13 +3052,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureCustomRegionX.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>9</value>
   </data>
   <data name="nudCaptureCustomRegionHeight.Location" type="System.Drawing.Point, System.Drawing">
     <value>176, 256</value>
   </data>
   <data name="nudCaptureCustomRegionHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>50, 22</value>
   </data>
   <data name="nudCaptureCustomRegionHeight.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -3049,13 +3073,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudCaptureCustomRegionHeight.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>10</value>
   </data>
   <data name="nudCaptureCustomRegionWidth.Location" type="System.Drawing.Point, System.Drawing">
     <value>120, 256</value>
   </data>
   <data name="nudCaptureCustomRegionWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>50, 22</value>
   </data>
   <data name="nudCaptureCustomRegionWidth.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -3070,13 +3094,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudCaptureCustomRegionWidth.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>11</value>
   </data>
   <data name="nudCaptureCustomRegionY.Location" type="System.Drawing.Point, System.Drawing">
     <value>64, 256</value>
   </data>
   <data name="nudCaptureCustomRegionY.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>50, 22</value>
   </data>
   <data name="nudCaptureCustomRegionY.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -3091,13 +3115,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudCaptureCustomRegionY.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>12</value>
   </data>
   <data name="nudCaptureCustomRegionX.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 256</value>
   </data>
   <data name="nudCaptureCustomRegionX.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>50, 22</value>
   </data>
   <data name="nudCaptureCustomRegionX.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -3112,7 +3136,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudCaptureCustomRegionX.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>13</value>
   </data>
   <data name="cbShowCursor.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3124,7 +3148,7 @@
     <value>8, 8</value>
   </data>
   <data name="cbShowCursor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>156, 17</value>
+    <value>189, 20</value>
   </data>
   <data name="cbShowCursor.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3142,7 +3166,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;cbShowCursor.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>14</value>
   </data>
   <data name="lblCaptureShadowOffset.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3154,7 +3178,7 @@
     <value>5, 126</value>
   </data>
   <data name="lblCaptureShadowOffset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>78, 13</value>
+    <value>95, 16</value>
   </data>
   <data name="lblCaptureShadowOffset.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -3172,7 +3196,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblCaptureShadowOffset.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>15</value>
   </data>
   <data name="cbCaptureTransparent.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3184,7 +3208,7 @@
     <value>8, 80</value>
   </data>
   <data name="cbCaptureTransparent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 17</value>
+    <value>227, 20</value>
   </data>
   <data name="cbCaptureTransparent.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -3202,7 +3226,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;cbCaptureTransparent.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>16</value>
   </data>
   <data name="cbCaptureAutoHideTaskbar.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3214,7 +3238,7 @@
     <value>8, 200</value>
   </data>
   <data name="cbCaptureAutoHideTaskbar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>402, 17</value>
+    <value>488, 20</value>
   </data>
   <data name="cbCaptureAutoHideTaskbar.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -3232,7 +3256,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;cbCaptureAutoHideTaskbar.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>17</value>
   </data>
   <data name="cbCaptureShadow.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3244,7 +3268,7 @@
     <value>8, 104</value>
   </data>
   <data name="cbCaptureShadow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 17</value>
+    <value>337, 20</value>
   </data>
   <data name="cbCaptureShadow.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -3262,7 +3286,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;cbCaptureShadow.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>18</value>
   </data>
   <data name="lblScreenshotDelayInfo.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3274,7 +3298,7 @@
     <value>72, 52</value>
   </data>
   <data name="lblScreenshotDelayInfo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>60, 16</value>
   </data>
   <data name="lblScreenshotDelayInfo.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3292,7 +3316,7 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;lblScreenshotDelayInfo.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>19</value>
   </data>
   <data name="cbCaptureClientArea.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -3304,7 +3328,7 @@
     <value>8, 176</value>
   </data>
   <data name="cbCaptureClientArea.Size" type="System.Drawing.Size, System.Drawing">
-    <value>334, 17</value>
+    <value>406, 20</value>
   </data>
   <data name="cbCaptureClientArea.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -3322,13 +3346,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;cbCaptureClientArea.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>20</value>
   </data>
   <data name="nudScreenshotDelay.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 48</value>
   </data>
   <data name="nudScreenshotDelay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+    <value>56, 22</value>
   </data>
   <data name="nudScreenshotDelay.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3346,13 +3370,13 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudScreenshotDelay.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>21</value>
   </data>
   <data name="nudCaptureShadowOffset.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 144</value>
   </data>
   <data name="nudCaptureShadowOffset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+    <value>56, 22</value>
   </data>
   <data name="nudCaptureShadowOffset.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -3370,16 +3394,16 @@
     <value>pCapture</value>
   </data>
   <data name="&gt;&gt;nudCaptureShadowOffset.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>22</value>
   </data>
   <data name="pCapture.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="pCapture.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 25</value>
+    <value>0, 28</value>
   </data>
   <data name="pCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 428</value>
+    <value>557, 419</value>
   </data>
   <data name="pCapture.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3412,7 +3436,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideCaptureSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 25</value>
+    <value>557, 28</value>
   </data>
   <data name="cbOverrideCaptureSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3433,10 +3457,10 @@
     <value>1</value>
   </data>
   <data name="tpCaptureGeneral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpCaptureGeneral.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpCaptureGeneral.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3460,7 +3484,7 @@
     <value>365, 176</value>
   </data>
   <data name="lblRegionCaptureBackgroundDimStrengthHint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>15, 13</value>
+    <value>20, 16</value>
   </data>
   <data name="lblRegionCaptureBackgroundDimStrengthHint.TabIndex" type="System.Int32, mscorlib">
     <value>36</value>
@@ -3484,7 +3508,7 @@
     <value>312, 172</value>
   </data>
   <data name="nudRegionCaptureBackgroundDimStrength.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
+    <value>48, 22</value>
   </data>
   <data name="nudRegionCaptureBackgroundDimStrength.TabIndex" type="System.Int32, mscorlib">
     <value>35</value>
@@ -3511,7 +3535,7 @@
     <value>5, 176</value>
   </data>
   <data name="lblRegionCaptureBackgroundDimStrength.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 13</value>
+    <value>159, 16</value>
   </data>
   <data name="lblRegionCaptureBackgroundDimStrength.TabIndex" type="System.Int32, mscorlib">
     <value>34</value>
@@ -3538,7 +3562,7 @@
     <value>8, 464</value>
   </data>
   <data name="cbRegionCaptureActiveMonitorMode.Size" type="System.Drawing.Size, System.Drawing">
-    <value>303, 17</value>
+    <value>369, 20</value>
   </data>
   <data name="cbRegionCaptureActiveMonitorMode.TabIndex" type="System.Int32, mscorlib">
     <value>33</value>
@@ -3562,7 +3586,7 @@
     <value>312, 436</value>
   </data>
   <data name="nudRegionCaptureFPSLimit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudRegionCaptureFPSLimit.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
@@ -3589,7 +3613,7 @@
     <value>5, 440</value>
   </data>
   <data name="lblRegionCaptureFPSLimit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 13</value>
+    <value>63, 16</value>
   </data>
   <data name="lblRegionCaptureFPSLimit.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -3619,7 +3643,7 @@
     <value>8, 416</value>
   </data>
   <data name="cbRegionCaptureShowFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 17</value>
+    <value>89, 20</value>
   </data>
   <data name="cbRegionCaptureShowFPS.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -3661,7 +3685,7 @@
     <value>0, 0, 0, 0</value>
   </data>
   <data name="lblRegionCaptureFixedSizeWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 13</value>
+    <value>45, 16</value>
   </data>
   <data name="lblRegionCaptureFixedSizeWidth.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3682,10 +3706,10 @@
     <value>0</value>
   </data>
   <data name="nudRegionCaptureFixedSizeWidth.Location" type="System.Drawing.Point, System.Drawing">
-    <value>41, 3</value>
+    <value>48, 3</value>
   </data>
   <data name="nudRegionCaptureFixedSizeWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudRegionCaptureFixedSizeWidth.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3715,13 +3739,13 @@
     <value>NoControl</value>
   </data>
   <data name="lblRegionCaptureFixedSizeHeight.Location" type="System.Drawing.Point, System.Drawing">
-    <value>111, 6</value>
+    <value>118, 6</value>
   </data>
   <data name="lblRegionCaptureFixedSizeHeight.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 0, 0, 0</value>
   </data>
   <data name="lblRegionCaptureFixedSizeHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 13</value>
+    <value>50, 16</value>
   </data>
   <data name="lblRegionCaptureFixedSizeHeight.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3742,10 +3766,10 @@
     <value>2</value>
   </data>
   <data name="nudRegionCaptureFixedSizeHeight.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 3</value>
+    <value>171, 3</value>
   </data>
   <data name="nudRegionCaptureFixedSizeHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudRegionCaptureFixedSizeHeight.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3769,7 +3793,7 @@
     <value>312, 387</value>
   </data>
   <data name="flpRegionCaptureFixedSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>222, 26</value>
+    <value>238, 28</value>
   </data>
   <data name="flpRegionCaptureFixedSize.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -3799,7 +3823,7 @@
     <value>8, 392</value>
   </data>
   <data name="cbRegionCaptureIsFixedSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 17</value>
+    <value>169, 20</value>
   </data>
   <data name="cbRegionCaptureIsFixedSize.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -3829,7 +3853,7 @@
     <value>8, 368</value>
   </data>
   <data name="cbRegionCaptureShowCrosshair.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 17</value>
+    <value>193, 20</value>
   </data>
   <data name="cbRegionCaptureShowCrosshair.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
@@ -3859,7 +3883,7 @@
     <value>5, 344</value>
   </data>
   <data name="lblRegionCaptureMagnifierPixelSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 13</value>
+    <value>124, 16</value>
   </data>
   <data name="lblRegionCaptureMagnifierPixelSize.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -3889,7 +3913,7 @@
     <value>5, 320</value>
   </data>
   <data name="lblRegionCaptureMagnifierPixelCount.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 13</value>
+    <value>132, 16</value>
   </data>
   <data name="lblRegionCaptureMagnifierPixelCount.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -3919,7 +3943,7 @@
     <value>8, 296</value>
   </data>
   <data name="cbRegionCaptureUseSquareMagnifier.Size" type="System.Drawing.Size, System.Drawing">
-    <value>234, 17</value>
+    <value>292, 20</value>
   </data>
   <data name="cbRegionCaptureUseSquareMagnifier.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -3949,7 +3973,7 @@
     <value>8, 272</value>
   </data>
   <data name="cbRegionCaptureShowMagnifier.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 17</value>
+    <value>188, 20</value>
   </data>
   <data name="cbRegionCaptureShowMagnifier.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -3979,7 +4003,7 @@
     <value>8, 248</value>
   </data>
   <data name="cbRegionCaptureShowInfo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 17</value>
+    <value>187, 20</value>
   </data>
   <data name="cbRegionCaptureShowInfo.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -4057,7 +4081,7 @@
     <value>312, 220</value>
   </data>
   <data name="cbRegionCaptureSnapSizes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 21</value>
+    <value>167, 24</value>
   </data>
   <data name="cbRegionCaptureSnapSizes.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -4084,7 +4108,7 @@
     <value>5, 224</value>
   </data>
   <data name="lblRegionCaptureSnapSizes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 13</value>
+    <value>287, 16</value>
   </data>
   <data name="lblRegionCaptureSnapSizes.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -4114,7 +4138,7 @@
     <value>8, 200</value>
   </data>
   <data name="cbRegionCaptureUseCustomInfoText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>181, 17</value>
+    <value>218, 20</value>
   </data>
   <data name="cbRegionCaptureUseCustomInfoText.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -4144,7 +4168,7 @@
     <value>8, 152</value>
   </data>
   <data name="cbRegionCaptureDetectControls.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 17</value>
+    <value>278, 20</value>
   </data>
   <data name="cbRegionCaptureDetectControls.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -4174,7 +4198,7 @@
     <value>8, 128</value>
   </data>
   <data name="cbRegionCaptureDetectWindows.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 17</value>
+    <value>346, 20</value>
   </data>
   <data name="cbRegionCaptureDetectWindows.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -4198,7 +4222,7 @@
     <value>312, 100</value>
   </data>
   <data name="cbRegionCaptureMouse5ClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 21</value>
+    <value>216, 24</value>
   </data>
   <data name="cbRegionCaptureMouse5ClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -4225,7 +4249,7 @@
     <value>5, 104</value>
   </data>
   <data name="lblRegionCaptureMouse5ClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 13</value>
+    <value>131, 16</value>
   </data>
   <data name="lblRegionCaptureMouse5ClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -4249,7 +4273,7 @@
     <value>312, 76</value>
   </data>
   <data name="cbRegionCaptureMouse4ClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 21</value>
+    <value>216, 24</value>
   </data>
   <data name="cbRegionCaptureMouse4ClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -4276,7 +4300,7 @@
     <value>5, 80</value>
   </data>
   <data name="lblRegionCaptureMouse4ClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 13</value>
+    <value>131, 16</value>
   </data>
   <data name="lblRegionCaptureMouse4ClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -4300,7 +4324,7 @@
     <value>312, 52</value>
   </data>
   <data name="cbRegionCaptureMouseMiddleClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 21</value>
+    <value>216, 24</value>
   </data>
   <data name="cbRegionCaptureMouseMiddleClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -4327,7 +4351,7 @@
     <value>5, 56</value>
   </data>
   <data name="lblRegionCaptureMouseMiddleClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 13</value>
+    <value>165, 16</value>
   </data>
   <data name="lblRegionCaptureMouseMiddleClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -4351,7 +4375,7 @@
     <value>312, 28</value>
   </data>
   <data name="cbRegionCaptureMouseRightClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 21</value>
+    <value>216, 24</value>
   </data>
   <data name="cbRegionCaptureMouseRightClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -4378,7 +4402,7 @@
     <value>5, 32</value>
   </data>
   <data name="lblRegionCaptureMouseRightClickAction.Size" type="System.Drawing.Size, System.Drawing">
-    <value>122, 13</value>
+    <value>149, 16</value>
   </data>
   <data name="lblRegionCaptureMouseRightClickAction.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -4408,7 +4432,7 @@
     <value>8, 8</value>
   </data>
   <data name="cbRegionCaptureMultiRegionMode.Size" type="System.Drawing.Size, System.Drawing">
-    <value>360, 17</value>
+    <value>451, 20</value>
   </data>
   <data name="cbRegionCaptureMultiRegionMode.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4486,7 +4510,7 @@
     <value>120, 56</value>
   </data>
   <data name="nudRegionCaptureSnapSizesHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 20</value>
+    <value>104, 22</value>
   </data>
   <data name="nudRegionCaptureSnapSizesHeight.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -4516,7 +4540,7 @@
     <value>117, 40</value>
   </data>
   <data name="RegionCaptureSnapSizesHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 13</value>
+    <value>50, 16</value>
   </data>
   <data name="RegionCaptureSnapSizesHeight.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -4540,7 +4564,7 @@
     <value>8, 56</value>
   </data>
   <data name="nudRegionCaptureSnapSizesWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 20</value>
+    <value>104, 22</value>
   </data>
   <data name="nudRegionCaptureSnapSizesWidth.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -4570,7 +4594,7 @@
     <value>5, 40</value>
   </data>
   <data name="lblRegionCaptureSnapSizesWidth.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 13</value>
+    <value>45, 16</value>
   </data>
   <data name="lblRegionCaptureSnapSizesWidth.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -4618,7 +4642,7 @@
     <value>312, 198</value>
   </data>
   <data name="txtRegionCaptureCustomInfoText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 20</value>
+    <value>216, 22</value>
   </data>
   <data name="txtRegionCaptureCustomInfoText.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -4639,7 +4663,7 @@
     <value>312, 316</value>
   </data>
   <data name="nudRegionCaptureMagnifierPixelCount.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudRegionCaptureMagnifierPixelCount.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
@@ -4663,7 +4687,7 @@
     <value>312, 340</value>
   </data>
   <data name="nudRegionCaptureMagnifierPixelSize.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudRegionCaptureMagnifierPixelSize.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
@@ -4684,13 +4708,13 @@
     <value>34</value>
   </data>
   <data name="tpRegionCapture.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpRegionCapture.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpRegionCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpRegionCapture.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -4720,7 +4744,7 @@
     <value>8, 200</value>
   </data>
   <data name="cbScreenRecordTransparentRegion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 17</value>
+    <value>220, 20</value>
   </data>
   <data name="cbScreenRecordTransparentRegion.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -4750,7 +4774,7 @@
     <value>8, 176</value>
   </data>
   <data name="cbScreenRecordTwoPassEncoding.Size" type="System.Drawing.Size, System.Drawing">
-    <value>350, 17</value>
+    <value>438, 20</value>
   </data>
   <data name="cbScreenRecordTwoPassEncoding.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -4780,7 +4804,7 @@
     <value>8, 224</value>
   </data>
   <data name="cbScreenRecordConfirmAbort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 17</value>
+    <value>229, 20</value>
   </data>
   <data name="cbScreenRecordConfirmAbort.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -4810,7 +4834,7 @@
     <value>8, 104</value>
   </data>
   <data name="cbScreenRecorderShowCursor.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 17</value>
+    <value>173, 20</value>
   </data>
   <data name="cbScreenRecorderShowCursor.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -4867,7 +4891,7 @@
     <value>304, 130</value>
   </data>
   <data name="lblScreenRecorderStartDelay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>60, 16</value>
   </data>
   <data name="lblScreenRecorderStartDelay.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -4897,7 +4921,7 @@
     <value>8, 128</value>
   </data>
   <data name="cbScreenRecordAutoStart.Size" type="System.Drawing.Size, System.Drawing">
-    <value>122, 17</value>
+    <value>146, 20</value>
   </data>
   <data name="cbScreenRecordAutoStart.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -4927,7 +4951,7 @@
     <value>304, 154</value>
   </data>
   <data name="lblScreenRecorderFixedDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>60, 16</value>
   </data>
   <data name="lblScreenRecorderFixedDuration.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -4951,7 +4975,7 @@
     <value>232, 52</value>
   </data>
   <data name="nudScreenRecordFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudScreenRecordFPS.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -4981,7 +5005,7 @@
     <value>8, 56</value>
   </data>
   <data name="lblScreenRecordFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 13</value>
+    <value>143, 16</value>
   </data>
   <data name="lblScreenRecordFPS.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -5005,7 +5029,7 @@
     <value>232, 150</value>
   </data>
   <data name="nudScreenRecorderDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudScreenRecorderDuration.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -5029,7 +5053,7 @@
     <value>232, 126</value>
   </data>
   <data name="nudScreenRecorderStartDelay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudScreenRecorderStartDelay.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -5059,7 +5083,7 @@
     <value>8, 152</value>
   </data>
   <data name="cbScreenRecorderFixedDuration.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 17</value>
+    <value>114, 20</value>
   </data>
   <data name="cbScreenRecorderFixedDuration.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -5083,7 +5107,7 @@
     <value>232, 76</value>
   </data>
   <data name="nudGIFFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+    <value>64, 22</value>
   </data>
   <data name="nudGIFFPS.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -5113,7 +5137,7 @@
     <value>8, 80</value>
   </data>
   <data name="lblGIFFPS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 13</value>
+    <value>61, 16</value>
   </data>
   <data name="lblGIFFPS.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -5134,13 +5158,13 @@
     <value>14</value>
   </data>
   <data name="tpScreenRecorder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpScreenRecorder.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpScreenRecorder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpScreenRecorder.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -5191,7 +5215,7 @@
     <value>8, 80</value>
   </data>
   <data name="cbCaptureOCRAutoCopy.Size" type="System.Drawing.Size, System.Drawing">
-    <value>205, 17</value>
+    <value>256, 20</value>
   </data>
   <data name="cbCaptureOCRAutoCopy.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -5218,7 +5242,7 @@
     <value>8, 103</value>
   </data>
   <data name="cbCloseWindowAfterOpenServiceLink.Size" type="System.Drawing.Size, System.Drawing">
-    <value>238, 17</value>
+    <value>292, 20</value>
   </data>
   <data name="cbCloseWindowAfterOpenServiceLink.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -5248,7 +5272,7 @@
     <value>8, 56</value>
   </data>
   <data name="cbCaptureOCRSilent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 17</value>
+    <value>153, 20</value>
   </data>
   <data name="cbCaptureOCRSilent.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -5278,7 +5302,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblOCRDefaultLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 13</value>
+    <value>113, 16</value>
   </data>
   <data name="lblOCRDefaultLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5302,7 +5326,7 @@
     <value>8, 24</value>
   </data>
   <data name="cbCaptureOCRDefaultLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>208, 21</value>
+    <value>208, 24</value>
   </data>
   <data name="cbCaptureOCRDefaultLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -5320,13 +5344,13 @@
     <value>5</value>
   </data>
   <data name="tpOCR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpOCR.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpOCR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpOCR.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -5353,7 +5377,7 @@
     <value>3, 3</value>
   </data>
   <data name="tcCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 479</value>
+    <value>565, 476</value>
   </data>
   <data name="tcCapture.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5371,13 +5395,13 @@
     <value>0</value>
   </data>
   <data name="tpCapture.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpCapture.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpCapture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpCapture.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -5413,7 +5437,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideUploadSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 25</value>
+    <value>557, 28</value>
   </data>
   <data name="cbOverrideUploadSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5434,10 +5458,10 @@
     <value>0</value>
   </data>
   <data name="tpUploadMain.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpUploadMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpUploadMain.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5458,7 +5482,7 @@
     <value>8, 368</value>
   </data>
   <data name="txtURLRegexReplaceReplacement.Size" type="System.Drawing.Size, System.Drawing">
-    <value>352, 20</value>
+    <value>352, 22</value>
   </data>
   <data name="txtURLRegexReplaceReplacement.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -5485,7 +5509,7 @@
     <value>5, 352</value>
   </data>
   <data name="lblURLRegexReplaceReplacement.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 13</value>
+    <value>92, 16</value>
   </data>
   <data name="lblURLRegexReplaceReplacement.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -5509,7 +5533,7 @@
     <value>8, 328</value>
   </data>
   <data name="txtURLRegexReplacePattern.Size" type="System.Drawing.Size, System.Drawing">
-    <value>352, 20</value>
+    <value>352, 22</value>
   </data>
   <data name="txtURLRegexReplacePattern.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -5536,7 +5560,7 @@
     <value>5, 312</value>
   </data>
   <data name="lblURLRegexReplacePattern.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 13</value>
+    <value>53, 16</value>
   </data>
   <data name="lblURLRegexReplacePattern.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -5566,7 +5590,7 @@
     <value>8, 288</value>
   </data>
   <data name="cbURLRegexReplace.Size" type="System.Drawing.Size, System.Drawing">
-    <value>296, 17</value>
+    <value>369, 20</value>
   </data>
   <data name="cbURLRegexReplace.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -5623,7 +5647,7 @@
     <value>5, 160</value>
   </data>
   <data name="lblAutoIncrementNumber.Size" type="System.Drawing.Size, System.Drawing">
-    <value>119, 13</value>
+    <value>147, 16</value>
   </data>
   <data name="lblAutoIncrementNumber.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -5647,7 +5671,7 @@
     <value>8, 177</value>
   </data>
   <data name="nudAutoIncrementNumber.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 20</value>
+    <value>88, 22</value>
   </data>
   <data name="nudAutoIncrementNumber.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -5677,7 +5701,7 @@
     <value>8, 264</value>
   </data>
   <data name="cbFileUploadReplaceProblematicCharacters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>370, 17</value>
+    <value>462, 20</value>
   </data>
   <data name="cbFileUploadReplaceProblematicCharacters.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -5707,7 +5731,7 @@
     <value>8, 208</value>
   </data>
   <data name="cbNameFormatCustomTimeZone.Size" type="System.Drawing.Size, System.Drawing">
-    <value>133, 17</value>
+    <value>161, 20</value>
   </data>
   <data name="cbNameFormatCustomTimeZone.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5737,7 +5761,7 @@
     <value>5, 48</value>
   </data>
   <data name="lblNameFormatPatternPreview.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 13</value>
+    <value>59, 16</value>
   </data>
   <data name="lblNameFormatPatternPreview.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -5767,7 +5791,7 @@
     <value>5, 72</value>
   </data>
   <data name="lblNameFormatPatternActiveWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 13</value>
+    <value>205, 16</value>
   </data>
   <data name="lblNameFormatPatternActiveWindow.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -5797,7 +5821,7 @@
     <value>5, 112</value>
   </data>
   <data name="lblNameFormatPatternPreviewActiveWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 13</value>
+    <value>59, 16</value>
   </data>
   <data name="lblNameFormatPatternPreviewActiveWindow.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -5821,7 +5845,7 @@
     <value>8, 232</value>
   </data>
   <data name="cbNameFormatTimeZone.Size" type="System.Drawing.Size, System.Drawing">
-    <value>288, 21</value>
+    <value>288, 24</value>
   </data>
   <data name="cbNameFormatTimeZone.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -5842,7 +5866,7 @@
     <value>8, 88</value>
   </data>
   <data name="txtNameFormatPatternActiveWindow.Size" type="System.Drawing.Size, System.Drawing">
-    <value>448, 20</value>
+    <value>448, 22</value>
   </data>
   <data name="txtNameFormatPatternActiveWindow.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -5869,7 +5893,7 @@
     <value>8, 136</value>
   </data>
   <data name="cbFileUploadUseNamePattern.Size" type="System.Drawing.Size, System.Drawing">
-    <value>307, 17</value>
+    <value>380, 20</value>
   </data>
   <data name="cbFileUploadUseNamePattern.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -5899,7 +5923,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblNameFormatPattern.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 13</value>
+    <value>278, 16</value>
   </data>
   <data name="lblNameFormatPattern.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -5923,7 +5947,7 @@
     <value>8, 24</value>
   </data>
   <data name="txtNameFormatPattern.Size" type="System.Drawing.Size, System.Drawing">
-    <value>448, 20</value>
+    <value>448, 22</value>
   </data>
   <data name="txtNameFormatPattern.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -5941,13 +5965,13 @@
     <value>17</value>
   </data>
   <data name="tpFileNaming.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpFileNaming.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpFileNaming.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpFileNaming.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -5977,7 +6001,7 @@
     <value>8, 56</value>
   </data>
   <data name="cbClipboardUploadShareURL.Size" type="System.Drawing.Size, System.Drawing">
-    <value>343, 17</value>
+    <value>420, 20</value>
   </data>
   <data name="cbClipboardUploadShareURL.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -6007,7 +6031,7 @@
     <value>8, 8</value>
   </data>
   <data name="cbClipboardUploadURLContents.Size" type="System.Drawing.Size, System.Drawing">
-    <value>308, 17</value>
+    <value>377, 20</value>
   </data>
   <data name="cbClipboardUploadURLContents.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6037,7 +6061,7 @@
     <value>8, 80</value>
   </data>
   <data name="cbClipboardUploadAutoIndexFolder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>387, 17</value>
+    <value>474, 20</value>
   </data>
   <data name="cbClipboardUploadAutoIndexFolder.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6067,7 +6091,7 @@
     <value>8, 32</value>
   </data>
   <data name="cbClipboardUploadShortenURL.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 17</value>
+    <value>329, 20</value>
   </data>
   <data name="cbClipboardUploadShortenURL.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -6088,13 +6112,13 @@
     <value>3</value>
   </data>
   <data name="tpUploadClipboard.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpUploadClipboard.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpUploadClipboard.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpUploadClipboard.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -6133,7 +6157,7 @@
     <value>8, 136</value>
   </data>
   <data name="lvUploaderFiltersList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>536, 310</value>
+    <value>536, 307</value>
   </data>
   <data name="lvUploaderFiltersList.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -6142,7 +6166,7 @@
     <value>lvUploaderFiltersList</value>
   </data>
   <data name="&gt;&gt;lvUploaderFiltersList.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;lvUploaderFiltersList.Parent" xml:space="preserve">
     <value>tpUploaderFilters</value>
@@ -6241,7 +6265,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblUploaderFiltersDestination.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 13</value>
+    <value>68, 16</value>
   </data>
   <data name="lblUploaderFiltersDestination.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -6265,7 +6289,7 @@
     <value>8, 24</value>
   </data>
   <data name="cbUploaderFiltersDestination.Size" type="System.Drawing.Size, System.Drawing">
-    <value>352, 21</value>
+    <value>352, 24</value>
   </data>
   <data name="cbUploaderFiltersDestination.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6292,7 +6316,7 @@
     <value>368, 76</value>
   </data>
   <data name="lblUploaderFiltersExtensionsExample.Size" type="System.Drawing.Size, System.Drawing">
-    <value>117, 13</value>
+    <value>148, 16</value>
   </data>
   <data name="lblUploaderFiltersExtensionsExample.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -6322,7 +6346,7 @@
     <value>5, 56</value>
   </data>
   <data name="lblUploaderFiltersExtensions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>78, 13</value>
+    <value>96, 16</value>
   </data>
   <data name="lblUploaderFiltersExtensions.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -6346,7 +6370,7 @@
     <value>8, 72</value>
   </data>
   <data name="txtUploaderFiltersExtensions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>352, 20</value>
+    <value>352, 22</value>
   </data>
   <data name="txtUploaderFiltersExtensions.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6364,13 +6388,13 @@
     <value>8</value>
   </data>
   <data name="tpUploaderFilters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpUploaderFilters.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpUploaderFilters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>557, 453</value>
+    <value>557, 447</value>
   </data>
   <data name="tpUploaderFilters.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6397,7 +6421,7 @@
     <value>3, 3</value>
   </data>
   <data name="tcUpload.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 479</value>
+    <value>565, 476</value>
   </data>
   <data name="tcUpload.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6415,13 +6439,13 @@
     <value>0</value>
   </data>
   <data name="tpUpload.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpUpload.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpUpload.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpUpload.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -6478,7 +6502,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblActionsNote.Size" type="System.Drawing.Size, System.Drawing">
-    <value>402, 13</value>
+    <value>497, 16</value>
   </data>
   <data name="lblActionsNote.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6586,7 +6610,7 @@
     <value>8, 64</value>
   </data>
   <data name="lvActions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>552, 389</value>
+    <value>552, 383</value>
   </data>
   <data name="lvActions.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -6595,7 +6619,7 @@
     <value>lvActions</value>
   </data>
   <data name="&gt;&gt;lvActions.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;lvActions.Parent" xml:space="preserve">
     <value>pActions</value>
@@ -6667,13 +6691,13 @@
     <value>Fill</value>
   </data>
   <data name="pActions.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 25</value>
+    <value>0, 28</value>
   </data>
   <data name="pActions.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
   <data name="pActions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 460</value>
+    <value>571, 454</value>
   </data>
   <data name="pActions.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -6706,7 +6730,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideActions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 25</value>
+    <value>571, 28</value>
   </data>
   <data name="cbOverrideActions.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6727,10 +6751,10 @@
     <value>1</value>
   </data>
   <data name="tpActions.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpActions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpActions.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6787,7 +6811,7 @@
     <value>8, 8</value>
   </data>
   <data name="cbWatchFolderEnabled.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 17</value>
+    <value>322, 20</value>
   </data>
   <data name="cbWatchFolderEnabled.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -6832,7 +6856,7 @@
     <value>8, 64</value>
   </data>
   <data name="lvWatchFolderList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>552, 414</value>
+    <value>552, 411</value>
   </data>
   <data name="lvWatchFolderList.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6841,7 +6865,7 @@
     <value>lvWatchFolderList</value>
   </data>
   <data name="&gt;&gt;lvWatchFolderList.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.MyListView, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;lvWatchFolderList.Parent" xml:space="preserve">
     <value>tpWatchFolders</value>
@@ -6904,13 +6928,13 @@
     <value>4</value>
   </data>
   <data name="tpWatchFolders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpWatchFolders.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpWatchFolders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpWatchFolders.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -6934,7 +6958,7 @@
     <value>8, 71</value>
   </data>
   <data name="txtToolsScreenColorPickerFormatCtrl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>288, 20</value>
+    <value>288, 22</value>
   </data>
   <data name="txtToolsScreenColorPickerFormatCtrl.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -6961,7 +6985,7 @@
     <value>5, 55</value>
   </data>
   <data name="lblToolsScreenColorPickerFormatCtrl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 13</value>
+    <value>237, 16</value>
   </data>
   <data name="lblToolsScreenColorPickerFormatCtrl.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -6985,7 +7009,7 @@
     <value>8, 118</value>
   </data>
   <data name="txtToolsScreenColorPickerInfoText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>288, 20</value>
+    <value>288, 22</value>
   </data>
   <data name="txtToolsScreenColorPickerInfoText.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -7012,7 +7036,7 @@
     <value>5, 102</value>
   </data>
   <data name="lblToolsScreenColorPickerInfoText.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 13</value>
+    <value>174, 16</value>
   </data>
   <data name="lblToolsScreenColorPickerInfoText.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -7036,7 +7060,7 @@
     <value>8, 24</value>
   </data>
   <data name="txtToolsScreenColorPickerFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>288, 20</value>
+    <value>288, 22</value>
   </data>
   <data name="txtToolsScreenColorPickerFormat.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -7063,7 +7087,7 @@
     <value>5, 8</value>
   </data>
   <data name="lblToolsScreenColorPickerFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 13</value>
+    <value>167, 16</value>
   </data>
   <data name="lblToolsScreenColorPickerFormat.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7087,10 +7111,10 @@
     <value>Fill</value>
   </data>
   <data name="pTools.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 25</value>
+    <value>0, 28</value>
   </data>
   <data name="pTools.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 460</value>
+    <value>571, 454</value>
   </data>
   <data name="pTools.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -7123,7 +7147,7 @@
     <value>8, 8, 8, 0</value>
   </data>
   <data name="cbOverrideToolsSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 25</value>
+    <value>571, 28</value>
   </data>
   <data name="cbOverrideToolsSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7144,10 +7168,10 @@
     <value>1</value>
   </data>
   <data name="tpTools.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpTools.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpTools.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -7171,10 +7195,10 @@
     <value>Fill</value>
   </data>
   <data name="pgTaskSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 33</value>
+    <value>3, 36</value>
   </data>
   <data name="pgTaskSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 449</value>
+    <value>565, 443</value>
   </data>
   <data name="pgTaskSettings.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -7207,7 +7231,7 @@
     <value>5, 5, 5, 8</value>
   </data>
   <data name="cbOverrideAdvancedSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>565, 30</value>
+    <value>565, 33</value>
   </data>
   <data name="cbOverrideAdvancedSettings.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7228,13 +7252,13 @@
     <value>1</value>
   </data>
   <data name="tpAdvanced.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpAdvanced.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpAdvanced.Size" type="System.Drawing.Size, System.Drawing">
-    <value>571, 485</value>
+    <value>571, 482</value>
   </data>
   <data name="tpAdvanced.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -7300,7 +7324,7 @@
     <value>tttvMain</value>
   </data>
   <data name="&gt;&gt;tttvMain.Type" xml:space="preserve">
-    <value>ShareX.HelpersLib.TabToTreeView, ShareX.HelpersLib, Version=16.1.2.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>ShareX.HelpersLib.TabToTreeView, ShareX.HelpersLib, Version=16.1.3.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;tttvMain.Parent" xml:space="preserve">
     <value>$this</value>
